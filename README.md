@@ -6,12 +6,18 @@ Repositório criado para o desafio de projeto, incluir todas as atividades.
 
 Abaixo, todas as atividades do **Bootcamp;**
 
--  Conheça as Oportunidades da Dio **Bootcamp Renan Oliveira**~~; 📎 [**[Certificado\]**] (https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.pdf)
--  Seja Protagonista Neste **Bootcamp Venilton FalvoJr**~~; 📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Seja%20Protagonista%20Neste%20Bootcamp.pdf
--  Introdução ao Desenvolvimento Moderno de Software **Bootcamp Denilson Bonatti 📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.pdf
--  Introdução á Programação e Pensamento Computacional **Bootcamp Juliana Mascarenhas**  📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional.pdf
--  Introdução ao Git e ao GitHub **Bootcamp Otávio Reis** 📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf
--  Como Entregar seu Desafio de Projeto **Bootcamp Venilton FalvoJr 📎[[Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Como%20Entregar%20seu%20Desafio%20de%20Projeto.pdf
+- [x] Conheça as Oportunidades da Dio **Bootcamp Renan Oliveira;** 📎  [**[Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.pdf)
+
+- [x] Seja Protagonista Neste **Bootcamp Venilton FalvoJr;** 📎[**[Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Seja%20Protagonista%20Neste%20Bootcamp.pdf)
+
+- [x] Introdução ao Desenvolvimento Moderno de Software **Bootcamp Denilson Bonatti;** 📎  [**[**[**Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.pdf)
+
+- [x] Introdução á Programação e Pensamento Computacional **Bootcamp Juliana Mascarenhas;** 📎[**[Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional.pdf)
+
+- [x] Introdução ao Git e ao GitHub **Bootcamp Otávio Reis;** 📎[**[Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf)
+
+- [x] Como Entregar seu Desafio de Projeto **Bootcamp Venilton FalvoJr;** 📎[**[Certificado]**](https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Como%20Entregar%20seu%20Desafio%20de%20Projeto.pdf)
+
 -  
 
 ## 🔑Algumas Coisas Importantes
