@@ -66,5 +66,7 @@ Abaixo, todas as atividades do **Bootcamp;**
 
 4. O editor de arquivos *Markdown(.md)*, muito útil para o Github:
 
-   - **Typora** - [clique aqui para baixar o Typora](https://typora.io/);
+   - Download **Typora** - [**[Clique aqui]**](https://typora.io/)
    - Lista completa de **[emoticons](https://gist.github.com/rxaviers/7360908)**💀😃💥;
+   - Download **Git** [**[Clique aqui]**](https://git-scm.com/)
+   - Entrar **GitHub** - [**[Clique aqui]**](https://github.com/)
