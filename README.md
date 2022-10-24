@@ -6,7 +6,7 @@ Repositório criado para o desafio de projeto, incluir todas as atividades.
 
 Abaixo, todas as atividades do **Bootcamp;**
 
--  Conheça as Oportunidades da Dio **Bootcamp Renan Oliveira**~~; 📎 [**[Certificado\]**] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.pdf 
+-  Conheça as Oportunidades da Dio **Bootcamp Renan Oliveira**~~; 📎 [**[Certificado\]**] (https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.pdf)
 -  Seja Protagonista Neste **Bootcamp Venilton FalvoJr**~~; 📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Seja%20Protagonista%20Neste%20Bootcamp.pdf
 -  Introdução ao Desenvolvimento Moderno de Software **Bootcamp Denilson Bonatti 📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.pdf
 -  Introdução á Programação e Pensamento Computacional **Bootcamp Juliana Mascarenhas**  📎[[**Certificado**]] https://github.com/AnaCaro1ina/Certificados-DIO-Bootcamp/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional.pdf
